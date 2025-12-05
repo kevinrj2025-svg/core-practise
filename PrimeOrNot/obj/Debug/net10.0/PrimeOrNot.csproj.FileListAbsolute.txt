@@ -1,0 +1,14 @@
+C:\Users\kevin\source\repos\PrimeOrNot\obj\Debug\net10.0\PrimeOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\PrimeOrNot\obj\Debug\net10.0\PrimeOrNot.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\PrimeOrNot\obj\Debug\net10.0\PrimeOrNot.AssemblyInfo.cs
+C:\Users\kevin\source\repos\PrimeOrNot\obj\Debug\net10.0\PrimeOrNot.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\PrimeOrNot\bin\Debug\net10.0\PrimeOrNot.exe
+C:\Users\kevin\source\repos\PrimeOrNot\bin\Debug\net10.0\PrimeOrNot.deps.json
+C:\Users\kevin\source\repos\PrimeOrNot\bin\Debug\net10.0\PrimeOrNot.runtimeconfig.json
+C:\Users\kevin\source\repos\PrimeOrNot\bin\Debug\net10.0\PrimeOrNot.dll
+C:\Users\kevin\source\repos\PrimeOrNot\bin\Debug\net10.0\PrimeOrNot.pdb
+C:\Users\kevin\source\repos\PrimeOrNot\obj\Debug\net10.0\PrimeOrNot.dll
+C:\Users\kevin\source\repos\PrimeOrNot\obj\Debug\net10.0\refint\PrimeOrNot.dll
+C:\Users\kevin\source\repos\PrimeOrNot\obj\Debug\net10.0\PrimeOrNot.pdb
+C:\Users\kevin\source\repos\PrimeOrNot\obj\Debug\net10.0\PrimeOrNot.genruntimeconfig.cache
+C:\Users\kevin\source\repos\PrimeOrNot\obj\Debug\net10.0\ref\PrimeOrNot.dll
